@@ -1078,7 +1078,7 @@ const markup = `<div class="ahorra-page">
               <footer class="hero-footer">
                 <div>
                   <strong>¡Habla con un asesor energético hoy!</strong>
-                  <a href="mailto:hola@ahorrasinlios.com">hola@ahorrasinlios.com</a>
+                  <a href="mailto:info@ahorrasinlios.com">info@ahorrasinlios.com</a>
                 </div>
                 <div class="footer-right">
                   <strong>Estamos a solo una llamada de distancia</strong>
